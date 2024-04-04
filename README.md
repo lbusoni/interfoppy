@@ -1,2 +1,2 @@
-# interfoppy
-AO Interferometry with poppy
+# visinterf
+AO Interferometry at visible wavelength
