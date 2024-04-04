@@ -1,0 +1,8 @@
+
+class SnapshotPrefix(object):
+    PETALOMETER = "PET"
+    PATH1 = "PATH1"
+    PATH2 = "PATH2"
+    PHASE_SHIFT_INTERFEROMETER = "PSI"
+    PASSATA_RESIDUAL = "PASSATA"
+    LOW_WIND_EFFECT = "LWE"
